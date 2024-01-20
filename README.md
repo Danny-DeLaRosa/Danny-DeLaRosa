@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danny-delarosa" alt="danny-delarosa" /></a> </p>
 
-- 🔭 I’m currently working on **Tic-Tac-Toe game**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NEXT.js and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [TBD](TBD)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **danny.devlarosa@gmail.com**
 
