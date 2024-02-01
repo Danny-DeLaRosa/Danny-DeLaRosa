@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **NEXT.js and Tailwind CSS**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 👨‍💻 All of my projects are available at [TBD](TBD)
 
